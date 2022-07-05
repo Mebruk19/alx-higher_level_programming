@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-print_reversed_list_integer.py
-# Brennan D Baraban <375@holbertonschool.com>
+# mebruk abdu
 
 
 def print_reversed_list_integer(my_list=[]):
